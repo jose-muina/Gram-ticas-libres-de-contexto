@@ -1,2 +1,2 @@
-# Gram-ticas-libres-de-contexto
+# Gramaticas-libres-de-contexto
 Ejercicios de gramáticas libres de contexto
